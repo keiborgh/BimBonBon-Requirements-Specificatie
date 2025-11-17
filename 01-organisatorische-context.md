@@ -32,7 +32,6 @@ De strategie van BimBonBon richt zich op het continu verbeteren van kwaliteit en
 - **Differentiatie:** Exclusieve, unieke producten en ervaringen die BimBonBon onderscheiden van concurrenten.  
 
 ## Doelstellingen
-## Doelstellingen
 
 ### Waarom deze doelstellingen
 Deze doelstellingen helpen BimBonBon om de klanttevredenheid en loyaliteit te verhogen, de efficiëntie van processen te verbeteren en de positie van het merk te versterken. Door duidelijke korte en langetermijndoelen te stellen, kan het bedrijf gericht werken aan innovatie en klantgerichte oplossingen.
