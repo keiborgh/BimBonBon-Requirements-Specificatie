@@ -11,7 +11,7 @@ De missie van BimBonBon is om in alles wat we doen de hoogste kwaliteit te lever
 
 ### _Visie_
 
-Onze visie is om BimBonBon te laten uitgroeien tot een team dat bekendstaat om kwaliteit, creativiteit en betrouwbaarheid. We willen blijven vernieuwen en oplossingen ontwikkelen die passen bij de behoeften van vandaag én de toekomst. Door met zorg en aandacht te werken, streven we ernaar blijvende waarde te creëren voor onze klanten, ons team en onze projecten.
+Onze visie is om BimBonBon te laten uitgroeien tot een team dat bekendstaat om kwaliteit, creativiteit en betrouwbaarheid. We willen blijven vernieuwen en oplossingen ontwikkelen die passen bij de behoeften van vandaag en de toekomst. Door met zorg en aandacht te werken, streven we ernaar blijvende waarde te creëren voor onze klanten, ons team en onze projecten.
 
 ### _Strategie_
 blabla
