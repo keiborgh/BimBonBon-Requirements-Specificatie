@@ -16,6 +16,9 @@ Onze visie is om BimBonBon te laten uitgroeien tot een team dat bekendstaat om k
 ### _Strategie_
 blabla
 
+### _Organogram_
+blablabka
+
 #### Doelstellingen
 blabla
 
