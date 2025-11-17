@@ -6,10 +6,12 @@ Welkom bij de requirements specificatie van BimBonBon!! Wij zijn een chocoladebe
 ## Organisatorische Context
 
 ### _Missie_
-blabla
 
-### _Vissie_
-blabla
+De missie van BimBonBon is om in alles wat we doen de hoogste kwaliteit te leveren. Net zoals onze bonbons met zorg en aandacht worden gemaakt, willen we ook onze projecten nauwkeurig, creatief en betrouwbaar uitvoeren. Voor ons is kwaliteit geen keuze, maar de standaard. We streven ernaar om resultaten te leveren waar klanten en partners altijd op kunnen vertrouwen.
+
+### _Visie_
+
+Onze visie is om BimBonBon te laten uitgroeien tot een team dat bekendstaat om kwaliteit, creativiteit en betrouwbaarheid. We willen blijven vernieuwen en oplossingen ontwikkelen die passen bij de behoeften van vandaag én de toekomst. Door met zorg en aandacht te werken, streven we ernaar blijvende waarde te creëren voor onze klanten, ons team en onze projecten.
 
 ### _Strategie_
 blabla
