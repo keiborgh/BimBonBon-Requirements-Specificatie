@@ -4,4 +4,4 @@ In dit Product Vision Board brengen we helder in kaart voor wie ons product bedo
 
 Dit overzicht helpt ons om gericht te werken aan een product dat niet alleen waardevol is voor onze klanten, maar ook bijdraagt aan het succes en de klantloyaliteit van BimBonBon.
 
-![Productvisie](images/Productvisie-Bimbonbon.png)
+![Productvisie](Productvisie-Bimbonbon.png)
