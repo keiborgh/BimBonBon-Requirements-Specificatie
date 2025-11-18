@@ -125,6 +125,9 @@ Dit helpt ons om te zorgen dat we aan de wensen van alle partijen voldoen en eff
 
 De stakeholders zijn ingedeeld op basis van hun invloed en belang: hoog, middel en laag. Zo kunnen we prioriteiten stellen in communicatie en samenwerking.
 
+![stakeholderanalyse](Stakeholdermatrix-Bimbonbon.png)
+
+
 ### Stakeholders indeling
 
 #### Actief beheren (veel invloed en veel belang)
