@@ -11,21 +11,22 @@ Dit model helpt om inzicht te krijgen in welke onderdelen het systeem moet bevat
 Het domeinmodel laat de belangrijkste onderdelen van het systeem zien en hoe deze verbonden zijn.
 
 ```mermaid
-graph TD
-    KLANT[Klant]
-    PRODUCT[Product]
-    HANDLEIDING[Handleiding]
-    UPDATE[Update]
-    CHAT[Chat]
-    CHATBERICHT[Chatbericht]
-    TICKET[Ticket]
+classDiagram
+    class Klant
+    class Product
+    class Handleiding
+    class Update
+    class Chat
+    class ChatBericht
+    class Ticket
 
-    KLANT --> PRODUCT
-    PRODUCT --> HANDLEIDING
-    PRODUCT --> UPDATE
-    KLANT --> CHAT
-    CHAT --> CHATBERICHT
-    KLANT --> TICKET
+    Klant "1" --> "*" Product
+    Product "1" --> "1" Handleiding
+    Product "1" --> "*" Update
+    Klant "1" --> "*" Chat
+    Chat "1" --> "*" ChatBericht
+    Klant "1" --> "*" Ticket
+
 ```
 
 ```mermaid
