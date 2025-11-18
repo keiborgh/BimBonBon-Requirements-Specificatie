@@ -33,12 +33,10 @@ Met de app hebben klanten één plek om producten te registreren, informatie te 
 - Klanten kunnen direct feedback geven aan productontwikkeling
 - Gegevens van klanten worden geanalyseerd voor marketing en productverbetering
 
-flowchart TD
-    A[Handmatige registratie van producten] --> A1[Automatische registratie via QR-code of batchnummer]
-    B[Verspreide productinformatie en recepten] --> B1[Dashboard centraliseert productinfo, recepten en tutorials]
-    C[Traag en onoverzichtelijk klachtenproces] --> C1[AI-chatbot + digitaal klachtenformulier met tracking]
-    D[Weinig inzicht in klantvoorkeuren en aankoopgedrag] --> D1[Geanonimiseerde klantdata verzameld voor analyses]
-    E[Marketing en promoties niet gepersonaliseerd] --> E1[Gepersonaliseerde meldingen en aanbiedingen via app]
-    F[Beperkte feedback naar productontwikkeling] --> F1[Directe feedback via app naar productteam]
+## GAP analyse – BimBonBon App
+
+De GAP-analyse laat zien wat er nu gebeurt (IST), wat we willen bereiken (SOLL) en welke verbeteringen de app biedt.
+
+![GAP-analyse BimBonBon](Gap_Bimbonbon.png)
 
 
