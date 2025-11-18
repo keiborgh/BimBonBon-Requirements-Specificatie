@@ -1,10 +1,14 @@
-## Domeinmodel – BimBonBon App
+# Domeinmodel en UML Klassendiagram – BimBonBon App
 
-Het domeinmodel geeft een overzicht van de belangrijkste onderdelen binnen het BimBonBon-systeem en hoe deze met elkaar verbonden zijn.
 
-In dit model zie je dat een **klant** één of meerdere **producten** kan bezitten. Elk product heeft een **handleiding** en kan meerdere **updates** ontvangen. Klanten kunnen via een **chat** communiceren, waarbij elke chat uit meerdere **chatberichten** bestaat. Daarnaast kunnen klanten **tickets** aanmaken voor extra ondersteuning.  
+Het domeinmodel en UML-klassendiagram geven inzicht in de belangrijkste onderdelen van het BimBonBon systeem en hoe deze met elkaar samenwerken.  
 
-Dit model helpt om inzicht te krijgen in welke onderdelen het systeem moet bevatten en hoe deze samenwerken om de functionaliteiten in de app te ondersteunen.
+- Het **domeinmodel** laat de structuur en relaties zien tussen de kernonderdelen, zoals Klanten, Producten, Handleidingen, Updates, Chats en Tickets.  
+- Het **UML-klassendiagram** geeft detailinformatie over de attributen van elke klasse, zodat ontwikkelaars precies weten welke gegevens opgeslagen moeten worden en hoe de onderdelen met elkaar verbonden zijn.  
+
+Door eerst een leeg model te maken en daarna het volledig ingevulde diagram toe te voegen, kan het team zowel het overzicht behouden als direct aan de slag met implementatie.
+
+---
 
 # Domeinmodel – BimBonBon App (Leeg)
 
@@ -28,7 +32,11 @@ classDiagram
     Klant "1" --> "*" Ticket
 
 ```
+**Uitleg:**
 
+- Dit diagram laat zien welke onderdelen van het systeem bestaan en hoe ze met elkaar verbonden zijn.
+- Het is nog leeg qua attributen en dient als overzichtelijk startpunt.
+  
 ```mermaid
 classDiagram
     class Klant {
@@ -73,4 +81,10 @@ classDiagram
     Klant "1" --> "*" Chat
     Chat "1" --> "*" ChatBericht
     Klant "1" --> "*" Ticket
+```
+**Uitleg:**
 
+Het tweede diagram bevat alle attributen van de klassen.
+
+- Het toont hoe veelvoudige relaties werken (bijvoorbeeld één klant kan meerdere producten hebben).
+- Het diagram helpt ontwikkelaars om direct te weten welke data in de database opgeslagen moet worden en hoe de objecten in de app samenwerken.
