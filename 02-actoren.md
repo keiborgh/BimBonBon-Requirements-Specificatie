@@ -24,3 +24,6 @@ In dit overzicht staan alle actoren die interactie hebben met de BimBonBon app, 
 | **BI tool** | Analyseert klantgedrag en trends | - Ontvangen van geanonimiseerde gebruiksdata<br>- Rapportages maken voor productontwikkeling en marketing | - Toegang tot correcte data<br>- Overzichtelijke inzichten voor beslissingen |
 | **AI chatbot** | Biedt 24/7 ondersteuning voor klanten | - Beantwoord veelgestelde vragen<br>- Assisteert bij bestellingen en klachten<br>- Productinformatie verstrekken | - Up to date kennisbank<br>- Goede integratie met CRM en app |
 | **Marketing & Communicatie team** | Publiceert content, promoties en updates | - Pushnotificaties beheren<br>- Content uploaden en plannen<br>- Evenementen promoten | - Eenvoudig contentbeheer<br>- Mogelijkheid voor gerichte promoties<br>- Analyse van campagne-effectiviteit |
+
+---
+[👉 Volgende: Bedrijfsprocesanalyse](03-bedrijfsprocesanalyse.md)
