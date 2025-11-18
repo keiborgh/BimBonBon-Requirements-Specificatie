@@ -37,6 +37,7 @@ Met de app hebben klanten één plek om producten te registreren, informatie te 
 
 De GAP-analyse laat zien wat er nu gebeurt (IST), wat we willen bereiken (SOLL) en welke verbeteringen de app biedt.
 
+```mermaid
 graph TD
     A[Probleem: Producten moeten handmatig geregistreerd worden] --> A1[Oplossing: Automatische registratie via QR-code of batchnummer in app]
     B[Probleem: Productinformatie en recepten zijn verspreid] --> B1[Oplossing: Dashboard centraliseert productinfo, recepten en tutorials]
@@ -44,5 +45,6 @@ graph TD
     D[Probleem: Weinig inzicht in klantvoorkeuren en aankoopgedrag] --> D1[Oplossing: App verzamelt geanonimiseerde klantdata voor analyses]
     E[Probleem: Marketing en promoties zijn niet gepersonaliseerd] --> E1[Oplossing: Gepersonaliseerde meldingen en aanbiedingen via app]
     F[Probleem: Productontwikkeling krijgt weinig feedback] --> F1[Oplossing: Feedback via app wordt direct doorgegeven aan productteam]
+```
 
 
