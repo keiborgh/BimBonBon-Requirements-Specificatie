@@ -31,10 +31,6 @@ classDiagram
 
 ---
 
-## 4️⃣ UML Klassendiagram – ingevuld
-
-```markdown
-# UML Klassendiagram – BimBonBon App (Invulling)
 
 ```mermaid
 classDiagram
