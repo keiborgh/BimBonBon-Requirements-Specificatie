@@ -35,7 +35,7 @@ Met de app hebben klanten één plek om producten te registreren, informatie te 
 
 ## GAP analyse – BimBonBon App
 
-De GAP-analyse laat zien wat er nu gebeurt (IST), wat we willen bereiken (SOLL) en welke verbeteringen de app biedt.
+De GAP analyse laat zien wat er nu gebeurt (IST), wat we willen bereiken (SOLL) en welke verbeteringen de app biedt.
 
 **Bovenaan** = huidige knelpunten (IST)  
 **Onderaan** = oplossingen / gewenste situatie (SOLL)  
@@ -43,9 +43,9 @@ De GAP-analyse laat zien wat er nu gebeurt (IST), wat we willen bereiken (SOLL) 
 
 ```mermaid
 graph TD
-    A[Producten moeten handmatig geregistreerd worden] --> A1[Automatische registratie via QR-code of batchnummer in app]
+    A[Producten moeten handmatig geregistreerd worden] --> A1[Automatische registratie via QR code of batchnummer in app]
     B[Productinformatie en recepten zijn verspreid] --> B1[Dashboard centraliseert productinfo, recepten en tutorials]
-    C[Klachtenproces is traag en onoverzichtelijk] --> C1[AI-chatbot + digitaal klachtenformulier met statustracking]
+    C[Klachtenproces is traag en onoverzichtelijk] --> C1[AI chatbot + digitaal klachtenformulier met statustracking]
     D[Weinig inzicht in klantvoorkeuren en aankoopgedrag] --> D1[App verzamelt geanonimiseerde klantdata voor analyses]
     E[Marketing en promoties zijn niet gepersonaliseerd] --> E1[Gepersonaliseerde meldingen en aanbiedingen via app]
     F[Productontwikkeling krijgt weinig feedback] --> F1[Feedback via app wordt direct doorgegeven aan productteam]
