@@ -24,12 +24,17 @@ BimBonBon is een naam die staat voor kwaliteit, betrouwbaarheid en creativiteit.
 - Langdurige waarde creëren voor team, klanten en partners  
 
 ## Strategie
-De strategie van BimBonBon richt zich op het continu verbeteren van kwaliteit en klantbeleving door innovatie, klantgerichtheid en creatieve oplossingen.  
 
-- **Innovatie:** Nieuwe producten en digitale oplossingen (zoals de mobiele applicatie) ontwikkelen die aansluiten bij klantbehoeften.  
-- **Klantgerichtheid:** Producten en diensten aanbieden die inspelen op wensen, gemak en ervaring van klanten.  
-- **Duurzaamheid:** Transparante communicatie over herkomst en productie van chocolade.  
-- **Differentiatie:** Exclusieve, unieke producten en ervaringen die BimBonBon onderscheiden van concurrenten.  
+BimBonBon gebruikt een duidelijke strategie om de missie en visie waar te maken. De strategie richt zich op kwaliteit, klantgerichtheid, innovatie en duurzaamheid. Door gericht te werken aan korte- en langetermijndoelen kan het bedrijf zijn merk versterken en een sterke klantrelatie opbouwen.  
+
+### Kernpunten van de strategie
+- **Kwaliteit centraal**: Alle producten en diensten voldoen aan hoge kwaliteitsnormen. Dit geldt voor de chocolade, de app en de service.  
+- **Klantgericht werken**: Klanten krijgen een persoonlijke ervaring, snelle oplossingen voor vragen en klachten, en relevante informatie over producten en acties.  
+- **Innovatie en technologie**: Nieuwe functies zoals productregistratie, gepersonaliseerde aanbevelingen, en virtuele fabriekstours worden continu ontwikkeld.  
+- **Duurzaamheid en transparantie**: Productherkomst, certificeringen en duurzame keuzes worden zichtbaar voor klanten via de app en communicatiekanalen.  
+- **Data gedreven beslissingen**: Klantgegevens en aankoopgedrag worden gebruikt om producten, promoties en de app steeds te verbeteren.  
+- **Community en betrokkenheid**: Klanten worden gestimuleerd om deel te nemen aan de community, recepten te delen, challenges te doen en evenementen te bezoeken.  
+
 
 ## Doelstellingen
 
