@@ -1,0 +1,5 @@
+# Geef aan dat alle afbeeldingen binaire bestanden zijn
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
