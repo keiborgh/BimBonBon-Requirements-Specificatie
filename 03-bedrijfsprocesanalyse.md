@@ -33,12 +33,12 @@ Met de app hebben klanten één plek om producten te registreren, informatie te 
 - Klanten kunnen direct feedback geven aan productontwikkeling
 - Gegevens van klanten worden geanalyseerd voor marketing en productverbetering
 
-graph TD
-    A[Producten moeten handmatig worden geregistreerd] --> A1[App registreert automatisch via QR-code of batchnummer]
-    B[Productinformatie en recepten zijn verspreid] --> B1[App centraliseert alle productinformatie, recepten en tutorials]
-    C[Klachtenafhandeling is traag en onoverzichtelijk] --> C1[AI-chatbot + digitaal klachtenformulier met tracking]
-    D[Weinig inzicht in klantvoorkeuren en aankoopgedrag] --> D1[App verzamelt geanonimiseerde klantdata voor analyses]
-    E[Marketing en promoties zijn niet gepersonaliseerd] --> E1[Gepersonaliseerde meldingen en aanbiedingen via app]
-    F[Productontwikkeling krijgt weinig feedback] --> F1[Feedback via app wordt direct doorgegeven aan productteam]
+flowchart TD
+    A[Handmatige registratie van producten] --> A1[Automatische registratie via QR-code of batchnummer]
+    B[Verspreide productinformatie en recepten] --> B1[Dashboard centraliseert productinfo, recepten en tutorials]
+    C[Traag en onoverzichtelijk klachtenproces] --> C1[AI-chatbot + digitaal klachtenformulier met tracking]
+    D[Weinig inzicht in klantvoorkeuren en aankoopgedrag] --> D1[Geanonimiseerde klantdata verzameld voor analyses]
+    E[Marketing en promoties niet gepersonaliseerd] --> E1[Gepersonaliseerde meldingen en aanbiedingen via app]
+    F[Beperkte feedback naar productontwikkeling] --> F1[Directe feedback via app naar productteam]
 
 
