@@ -65,7 +65,7 @@ Deze doelstellingen helpen BimBonBon om de klanttevredenheid en loyaliteit te ve
 ## Organogram BimBonBon App
 
 
-Een organogram laat zien hoe de structuur van een organisatie is opgebouwd, wie verantwoordelijk is voor wat, en hoe de communicatie verloopt. Voor het project van de BimBonBonapp is het belangrijk om te weten wie beslissingen neemt, wie de uitvoering doet en wie input levert. Zo weet iedereen in het team waar zijn of haar taken liggen en wie moet worden geraadpleegd bij vragen of problemen.
+Een organogram laat zien hoe de structuur van een organisatie is opgebouwd, wie verantwoordelijk is voor wat, en hoe de communicatie verloopt. Voor het project van de BimBonBon app is het belangrijk om te weten wie beslissingen neemt, wie de uitvoering doet en wie input levert. Zo weet iedereen in het team waar zijn of haar taken liggen en wie moet worden geraadpleegd bij vragen of problemen.
 
 In ons organogram zie je bijvoorbeeld:
 - De **raad van commissarissen** die strategische beslissingen neemt.  
@@ -110,3 +110,53 @@ graph TD
     CS --> SM
     PK --> CP
     PK --> QC
+
+## Stakeholderanalyse BimBonBon app
+
+In deze analyse bekijken we de belangrijkste betrokkenen (stakeholders) rondom de BimBonBon app.  
+We beschrijven hun belangen, invloed op het project, en wat zij verwachten van het resultaat.  
+Dit helpt ons om te zorgen dat we aan de wensen van alle partijen voldoen en effectief kunnen samenwerken.
+
+### Belang, Invloed en Verwachting
+- **Belang**: Wat de stakeholder belangrijk vindt in het project.  
+- **Invloed**: Hoeveel invloed de stakeholder heeft op beslissingen en uitvoering.  
+- **Verwachting**: Wat de stakeholder verwacht of nodig heeft van het project.  
+
+De stakeholders zijn ingedeeld op basis van hun invloed en belang: hoog, middel en laag. Zo kunnen we prioriteiten stellen in communicatie en samenwerking.
+
+### Stakeholders indeling
+
+#### Actief beheren (veel invloed en veel belang)
+- **Raad van Commissarissen**  
+  - Belang: Succesvolle lancering van de app, betere klantloyaliteit, datagedreven inzichten.  
+  - Invloed: Hoog, beslist over goedkeuring en strategische keuzes.  
+  - Verwachting: App voldoet aan bedrijfsstrategie en kwaliteitsstandaarden.  
+- **Algemeen Directeur / Managementteam**  
+  - Belang: Project succesvol uitvoeren, integratie met ERP/CRM.  
+  - Invloed: Hoog, stuurt middelen, prioriteiten en team aan.  
+  - Verwachting: Efficiënte voortgang, juiste functies en tijdige oplevering.  
+- **Projectmanager App-ontwikkeling**  
+  - Belang: Het project volgens planning en budget opleveren.  
+  - Invloed: Hoog, direct verantwoordelijk voor team en voortgang.  
+  - Verwachting: Duidelijke requirements, gemotiveerd team, minimale problemen.  
+- **Product Owner / Business Analyst**  
+  - Belang: Functionele en zakelijke eisen correct geïmplementeerd.  
+  - Invloed: Hoog, bepaalt backlog en prioriteiten.  
+  - Verwachting: App voldoet aan businessdoelen en gebruikersbehoeften.  
+
+#### Tevreden houden (weinig invloed maar wel belang)
+- **Klanten / Eindgebruikers**  
+  - Belang: Gemakkelijk registreren van producten, overzichtelijk dashboard, gepersonaliseerde ervaring.  
+  - Invloed: Laag, kunnen niet direct beslissen over features.  
+  - Verwachting: Intuïtieve, betrouwbare en veilige app.  
+- **Klantenservice**  
+  - Belang: Minder meldingen van problemen, makkelijker klachten afhandelen via app.  
+  - Invloed: Laag, hebben input over procesverbeteringen maar niet over prioriteiten.  
+  - Verwachting: App ondersteunt self-service en reduceert werkdruk.  
+
+#### Monitoren (veel invloed maar weinig belang)
+- Momenteel geen stakeholders in deze categorie.
+
+#### Informeren (weinig invloed en weinig belang)
+- Momenteel geen stakeholders in deze categorie.
+
