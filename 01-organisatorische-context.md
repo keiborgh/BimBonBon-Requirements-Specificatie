@@ -62,11 +62,10 @@ Deze doelstellingen helpen BimBonBon om de klanttevredenheid en loyaliteit te ve
 - Data analyse gebruiken om trends en voorkeuren van klanten te volgen en productontwikkeling te ondersteunen.  
   
 
-## Organogram
-## Organogram BimBonBon-app
+## Organogram BimBonBon App
 
-### Uitleg
-Een **organogram** laat zien hoe de structuur van een organisatie is opgebouwd, wie verantwoordelijk is voor wat, en hoe de communicatie verloopt. Voor het project van de BimBonBon-app is het belangrijk om te weten wie beslissingen neemt, wie de uitvoering doet en wie input levert. Zo weet iedereen in het team waar zijn of haar taken liggen en wie moet worden geraadpleegd bij vragen of problemen.
+
+Een organogram laat zien hoe de structuur van een organisatie is opgebouwd, wie verantwoordelijk is voor wat, en hoe de communicatie verloopt. Voor het project van de BimBonBonapp is het belangrijk om te weten wie beslissingen neemt, wie de uitvoering doet en wie input levert. Zo weet iedereen in het team waar zijn of haar taken liggen en wie moet worden geraadpleegd bij vragen of problemen.
 
 In ons organogram zie je bijvoorbeeld:
 - De **raad van commissarissen** die strategische beslissingen neemt.  
@@ -79,27 +78,35 @@ In ons organogram zie je bijvoorbeeld:
 - De **klanten zelf**, die de app gebruiken en feedback geven.
 
 ### Organogram
+```mermaid
+graph TD
+    RC[Raad van Commissarissen]
+    AD[Algemeen Directeur]
+    PM[Projectmanager App-ontwikkeling]
+    OT[Ontwikkelteam]
+    DEV[Programmeurs / Developers]
+    UX[UX/UI Designers]
+    QA[Testers / QA]
+    PO[Product Owner / Business Analyst]
+    MC[Marketing & Communicatie]
+    CT[Content Team / Social Media]
+    CS[Klantenservice]
+    SM[Supportmedewerkers]
+    PK[Productie & Kwaliteit]
+    CP[Chocoladeproductie]
+    QC[Kwaliteitscontrole]
 
-Raad van Commissarissen  
-        │  
-        └─ Algemeen Directeur  
-               │  
-               ├─ Projectmanager App-ontwikkeling  
-               │      ├─ Ontwikkelteam  
-               │      │      ├─ Programmeurs / Developers  
-               │      │      ├─ UX/UI Designers  
-               │      │      └─ Testers / QA  
-               │      │  
-               │      └─ Product Owner / Business Analyst  
-               │  
-               ├─ Marketing & Communicatie  
-               │      └─ Content Team / Social Media  
-               │  
-               ├─ Klantenservice  
-               │      └─ Supportmedewerkers  
-               │  
-               └─ Productie & Kwaliteit  
-                      ├─ Chocoladeproductie  
-                      └─ Kwaliteitscontrole
-
-
+    RC --> AD
+    AD --> PM
+    AD --> MC
+    AD --> CS
+    AD --> PK
+    PM --> OT
+    PM --> PO
+    OT --> DEV
+    OT --> UX
+    OT --> QA
+    MC --> CT
+    CS --> SM
+    PK --> CP
+    PK --> QC
