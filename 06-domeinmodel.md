@@ -6,6 +6,28 @@ In dit model zie je dat een **klant** één of meerdere **producten** kan bezitt
 
 Dit model helpt om inzicht te krijgen in welke onderdelen het systeem moet bevatten en hoe deze samenwerken om de functionaliteiten in de app te ondersteunen.
 
+# Domeinmodel – BimBonBon App (Leeg)
+
+Het domeinmodel laat de belangrijkste onderdelen van het systeem zien en hoe deze verbonden zijn.
+
+```mermaid
+graph TD
+    KLANT[Klant]
+    PRODUCT[Product]
+    HANDLEIDING[Handleiding]
+    UPDATE[Update]
+    CHAT[Chat]
+    CHATBERICHT[Chatbericht]
+    TICKET[Ticket]
+
+    KLANT --> PRODUCT
+    PRODUCT --> HANDLEIDING
+    PRODUCT --> UPDATE
+    KLANT --> CHAT
+    CHAT --> CHATBERICHT
+    KLANT --> TICKET
+```
+
 ```mermaid
 classDiagram
     class Klant {
