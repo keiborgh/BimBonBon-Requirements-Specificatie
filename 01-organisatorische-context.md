@@ -164,3 +164,6 @@ De stakeholders zijn ingedeeld op basis van hun invloed en belang: hoog, middel 
 #### Informeren (weinig invloed en weinig belang)
 - Momenteel geen stakeholders in deze categorie.
 
+
+[Startpagina](02_actoren.md)
+
