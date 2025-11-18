@@ -100,3 +100,7 @@ Het tweede diagram bevat alle attributen van de klassen.
 
 - Het toont hoe veelvoudige relaties werken (bijvoorbeeld één klant kan meerdere producten hebben).
 - Het diagram helpt ontwikkelaars om direct te weten welke data in de database opgeslagen moet worden en hoe de objecten in de app samenwerken.
+  
+# Toelichting Domeinmodel – BimBonBon App
+
+  Het domeinmodel geeft een overzicht van de belangrijkste onderdelen van het BimBonBon-systeem en hoe deze met elkaar verbonden zijn. Het laat zien welke objecten bestaan, zoals Klant, Product, Handleiding, Update, Chat en Ticket, en welke relaties er zijn, bijvoorbeeld dat een klant meerdere producten bezit of dat een product meerdere updates kan ontvangen. Dit model helpt ontwikkelaars en ontwerpers te begrijpen welke data elk onderdeel bevat en hoe de onderdelen samenwerken, zodat functies zoals productregistratie, klantenondersteuning en feedbackverwerking efficiënt kunnen worden gerealiseerd.
