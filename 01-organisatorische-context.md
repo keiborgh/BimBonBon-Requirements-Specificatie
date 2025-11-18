@@ -165,5 +165,5 @@ De stakeholders zijn ingedeeld op basis van hun invloed en belang: hoog, middel 
 - Momenteel geen stakeholders in deze categorie.
 ---
 
-[👉 Volgende: Actoren](02_actoren.md)
+[👉 Volgende: Actoren](02-actoren.md)
 
