@@ -1,7 +1,8 @@
 # Bedrijfsprocesanalyse – BimBonBon App
 
 BimBonBon ontwikkelt een mobiele app om de klantervaring te verbeteren, de werkdruk bij klantenservice te verminderen en de communicatie tussen klanten en bedrijf te optimaliseren.  
-In deze analyse beschrijven we de belangrijkste bedrijfsprocessen, de huidige situatie (IST), de gewenste situatie (SOLL), de knelpunten (GAP) en gebruiken we een SIPOC-model voor het klantondersteuningsproces.
+In deze analyse beschrijven we de belangrijkste bedrijfsprocessen, de huidige situatie (IST), de gewenste situatie (SOLL) en de knelpunten (GAP) die de app oplost.
+
 
 ## Overzicht van de hoofdprocessen binnen BimBonBon
 1. **Productregistratie en informatie**  
