@@ -15,7 +15,6 @@ Gebruikers kunnen hun chocoladeproduct eenvoudig registreren om toegang te krijg
 - Formulier met velden: productnaam, QR-code of serienummer, aankoopdatum  
 - Knop “Product registreren”  
 - Lijst van eerder geregistreerde producten met status  
-- Meldingsvak voor feedback (bijv. succesvol of foutmelding)
 
   ![Start](wireframe_1_productregristratie.png)
 
