@@ -130,8 +130,6 @@ De stakeholders zijn ingedeeld op basis van hun invloed en belang: hoog, middel 
 
 ### Stakeholders indeling
 
-# Stakeholders Indeling – BimBonBon App
-
 ## Actief beheren (veel invloed en veel belang)
 
 ### Raad van Commissarissen
