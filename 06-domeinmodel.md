@@ -101,4 +101,9 @@ classDiagram
 - Toont alle attributen en methodes van de klassen.
 - Laat relaties tussen objecten zien, bijvoorbeeld één klant kan meerdere producten hebben.
 - Helpt ontwikkelaars te begrijpen welke data nodig is en hoe onderdelen samenwerken voor functies zoals registratie, support en feedback.
+
+
+---
+[👉 Volgende: Sitemap](07-sitemap.md)
+
   
