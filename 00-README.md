@@ -6,7 +6,7 @@ Hier vind je alle belangrijke onderdelen die je nodig hebt om ons systeem te beg
 
 - [Organisatorische context](01-organisatorische-context.md)
 - [Actoren van het systeem](02-actoren.md)
-- [Bedrijfsprocesanalyse (SIPOC, Ist/Soll)](03-bedrijfsprocesanalyse.md)
+- [Bedrijfsprocesanalyse (Ist/Soll/Gap)](03-bedrijfsprocesanalyse.md)
 - [Productvisie](04-productvisie.md)
 - [User Stories + Acceptatiecriteria](05-user-stories.md)
 - [Domeinmodel & UML-klassendiagram](06-domeinmodel.md)
