@@ -142,7 +142,7 @@ De stakeholders zijn ingedeeld op basis van hun invloed en belang: hoog, middel 
 - **Invloed:** Hoog, geeft middelen, stelt prioriteiten en stuurt het team.  
 - **Verwachting:** Project verloopt soepel, functies werken goed en oplevering is op tijd.
 
-### Projectmanager App-ontwikkeling
+### Projectmanager App ontwikkeling
 - **Belang:** Het project volgens planning en budget opleveren.  
 - **Invloed:** Hoog, verantwoordelijk voor team en voortgang.  
 - **Verwachting:** Duidelijke eisen, gemotiveerd team, weinig problemen.
