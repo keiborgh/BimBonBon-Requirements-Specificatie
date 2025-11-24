@@ -130,33 +130,41 @@ De stakeholders zijn ingedeeld op basis van hun invloed en belang: hoog, middel 
 
 ### Stakeholders indeling
 
-#### Actief beheren (veel invloed en veel belang)
-- **Raad van Commissarissen**  
-  - Belang: Succesvolle lancering van de app, betere klantloyaliteit, datagedreven inzichten.  
-  - Invloed: Hoog, beslist over goedkeuring en strategische keuzes.  
-  - Verwachting: App voldoet aan bedrijfsstrategie en kwaliteitsstandaarden.  
-- **Algemeen Directeur / Managementteam**  
-  - Belang: Project succesvol uitvoeren, integratie met ERP/CRM.  
-  - Invloed: Hoog, stuurt middelen, prioriteiten en team aan.  
-  - Verwachting: Efficiënte voortgang, juiste functies en tijdige oplevering.  
-- **Projectmanager App-ontwikkeling**  
-  - Belang: Het project volgens planning en budget opleveren.  
-  - Invloed: Hoog, direct verantwoordelijk voor team en voortgang.  
-  - Verwachting: Duidelijke requirements, gemotiveerd team, minimale problemen.  
-- **Product Owner / Business Analyst**  
-  - Belang: Functionele en zakelijke eisen correct geïmplementeerd.  
-  - Invloed: Hoog, bepaalt backlog en prioriteiten.  
-  - Verwachting: App voldoet aan businessdoelen en gebruikersbehoeften.  
+# Stakeholders Indeling – BimBonBon App
 
-#### Tevreden houden (weinig invloed maar wel belang)
-- **Klanten / Eindgebruikers**  
-  - Belang: Gemakkelijk registreren van producten, overzichtelijk dashboard, gepersonaliseerde ervaring.  
-  - Invloed: Laag, kunnen niet direct beslissen over features.  
-  - Verwachting: Intuïtieve, betrouwbare en veilige app.  
-- **Klantenservice**  
-  - Belang: Minder meldingen van problemen, makkelijker klachten afhandelen via app.  
-  - Invloed: Laag, hebben input over procesverbeteringen maar niet over prioriteiten.  
-  - Verwachting: App ondersteunt self-service en reduceert werkdruk.  
+## Actief beheren (veel invloed en veel belang)
+
+### Raad van Commissarissen
+- **Belang:** Wil dat de app goed werkt, klanten blij zijn en dat er nuttige klantdata beschikbaar is.  
+- **Invloed:** Hoog, beslist over grote keuzes en strategie.  
+- **Verwachting:** App past bij de bedrijfsdoelen en is van goede kwaliteit.
+
+### Algemeen Directeur / Managementteam
+- **Belang:** Project succesvol uitvoeren en koppeling met ERP/CRM regelen.  
+- **Invloed:** Hoog, geeft middelen, stelt prioriteiten en stuurt het team.  
+- **Verwachting:** Project verloopt soepel, functies werken goed en oplevering is op tijd.
+
+### Projectmanager App-ontwikkeling
+- **Belang:** Het project volgens planning en budget opleveren.  
+- **Invloed:** Hoog, verantwoordelijk voor team en voortgang.  
+- **Verwachting:** Duidelijke eisen, gemotiveerd team, weinig problemen.
+
+### Product Owner / Business Analyst
+- **Belang:** App moet voldoen aan wensen van het bedrijf en gebruikers.  
+- **Invloed:** Hoog, bepaalt wat belangrijk is en wat eerst wordt ontwikkeld.  
+- **Verwachting:** App helpt het bedrijf en de klanten goed.
+
+## Tevreden houden (weinig invloed maar wel belang)
+
+### Klanten / Eindgebruikers
+- **Belang:** Producten makkelijk registreren, overzichtelijk dashboard, persoonlijke aanbiedingen.  
+- **Invloed:** Laag, kunnen niet direct beslissen over functies.  
+- **Verwachting:** App is makkelijk te gebruiken, betrouwbaar en veilig.
+
+### Klantenservice
+- **Belang:** Minder klachten en makkelijker afhandelen via de app.  
+- **Invloed:** Laag, kunnen wel tips geven over het proces maar bepalen niet wat eerst komt.  
+- **Verwachting:** App helpt klanten zelf, vermindert werkdruk voor medewerkers.
 
 #### Monitoren (veel invloed maar weinig belang)
 - Momenteel geen stakeholders in deze categorie.
