@@ -1,5 +1,5 @@
 # Sitemap – BimBonBon App
-Hieronder zie je de sitemap van de BimBonBon app. Deze sitemap geeft een overzicht van de belangrijkste schermen en functies binnen de app, zodat duidelijk wordt hoe klanten en gebruikers door de app kunnen navigeren. Elke hoofdpagina heeft logische onderverdelingen om de ervaring overzichtelijk, gebruiksvriendelijk en prettig te maken, en om processen zoals productregistratie, klantenservice en feedback efficiënt te ondersteunen.
+Hieronder zie je de sitemap van de BimBonBon app. Deze sitemap geeft een overzicht van de belangrijkste schermen en functies binnen de app, zodat duidelijk wordt hoe klanten en gebruikers door de app kunnen navigeren. Elke hoofdpagina heeft logische onderverdelingen om de ervaring overzichtelijk, gebruiksvriendelijk en prettig te maken, en om processen zoals productregistratie, klantenservice en feedback snel en makkelijk te ondersteunen.
 
 ```mermaid
 graph TD
