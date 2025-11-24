@@ -84,7 +84,7 @@ Gebruikers ontvangen relevante aanbiedingen en kunnen zelf meldingen beheren.
 Gebruikers kunnen feedback achterlaten over producten, zodat het bedrijf hun ervaringen kan gebruiken voor verbeteringen.
 
 **Opbouw:**  
-- Header met titel “Feedback” en terugknop  
+- Header met titel “Feedback”  
 - Keuze van product waarop feedback betrekking heeft  
 - Beoordeling via sterren  
 - Tekstvak voor opmerkingen  
