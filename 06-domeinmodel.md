@@ -36,6 +36,8 @@ classDiagram
 - Dit diagram laat zien welke onderdelen van het systeem bestaan en hoe ze met elkaar verbonden zijn.
 - Er zijn nog geen attributen toegevoegd: het dient als overzichtelijk startpunt voor het ontwerp.
 
+---
+
 # Domeinmodel – BimBonBon App (Ingevuld)
 
 ```mermaid
