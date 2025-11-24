@@ -93,5 +93,5 @@ Gebruikers kunnen feedback achterlaten over producten, zodat het bedrijf hun erv
 ![Start](wireframe_6_feedback.png)
 
 ---
-
+[👉 Volgende: Versietabel](09-Versietabel.md)
 
