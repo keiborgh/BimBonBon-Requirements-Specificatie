@@ -17,6 +17,8 @@ Gebruikers kunnen hun chocoladeproduct eenvoudig registreren om toegang te krijg
 - Lijst van eerder geregistreerde producten met status  
 - Meldingsvak voor feedback (bijv. succesvol of foutmelding)
 
+  ![Start](wireframe_1_productregristratie.png)
+
 ---
 
 ## Wireframe 2: Productinformatie & Recepten
@@ -29,6 +31,8 @@ Gebruikers kunnen alle productinformatie en recepten centraal bekijken, zodat ze
 - Lijst van recepten en tutorials  
 - Mogelijkheid om specifieke recepten te selecteren of te favorieten  
 
+![Start](wireframe_2_productinformatie.png)
+
 ---
 
 ## Wireframe 3: Klachten & Status
@@ -39,7 +43,9 @@ Gebruikers kunnen een klacht digitaal indienen én de status volgen.
 - Header met titel “Klachten” en terugknop  
 - Formulier om klacht in te dienen: onderwerp, beschrijving, bijlage  
 - Statusoverzicht van ingediende klachten: ontvangen, in behandeling, opgelost  
-- Knop “Update status” of automatische statusupdates  
+- Knop “Update status” of automatische statusupdates
+
+  ![Start](wireframe_3_klachten_en_status.png)
 
 ---
 
@@ -52,7 +58,10 @@ Gebruikers kunnen snel antwoord krijgen op veelgestelde vragen via een chatbot, 
 - Knoppen voor FAQ-categorieën  
 - Chatvenster met berichten van gebruiker en chatbot  
 - Invoerveld met verzendknop  
-- Optie “Doorverbinden met medewerker”  
+- Optie “Doorverbinden met medewerker”
+
+  ![Start](wireframe_4_ai_chatbot.png)
+
 
 ---
 
@@ -64,7 +73,9 @@ Gebruikers ontvangen relevante aanbiedingen en kunnen zelf meldingen beheren.
 - Header met titel “Promoties & Notificaties” en terugknop  
 - Lijst van gepersonaliseerde aanbiedingen  
 - Notificatie-instellingen: aan/uit voor updates, aanbiedingen, alerts  
-- Optie om meldingen direct te openen of verwijderen  
+- Optie om meldingen direct te openen of verwijderen
+
+  ![Start](wireframe_5_promoties_notificaties.png)
 
 ---
 
@@ -79,6 +90,8 @@ Gebruikers kunnen feedback achterlaten over producten, zodat het bedrijf hun erv
 - Tekstvak voor opmerkingen  
 - Knop “Verstuur feedback”  
 - Bevestigingsmelding na verzending  
+
+![Start](wireframe_6_feedback.png)
 
 ---
 
