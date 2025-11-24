@@ -38,28 +38,28 @@ BimBonBon gebruikt een duidelijke strategie om de missie en visie waar te maken.
 
 ## Doelstellingen
 
-### Waarom deze doelstellingen
-Deze doelstellingen helpen BimBonBon om de klanttevredenheid en loyaliteit te verhogen, de efficiëntie van processen te verbeteren en de positie van het merk te versterken. Door duidelijke korte en langetermijndoelen te stellen, kan het bedrijf gericht werken aan innovatie en klantgerichte oplossingen.
+## Waarom deze doelstellingen
+Deze doelstellingen helpen BimBonBon om klanten blij en trouw te maken, processen makkelijker te laten verlopen en het merk sterker te maken. Door duidelijke korte- en langetermijndoelen kan het bedrijf gericht werken aan vernieuwing en klantvriendelijke oplossingen.
 
 ### Binnen 5 maanden
-- De mobiele applicatie ontwikkelen en lanceren, inclusief productregistratie en dashboard voor klanten.  
-- Basisfunctionaliteiten voor klachtenafhandeling en support beschikbaar maken.  
-- Pushnotificaties instellen voor productupdates en seizoensproducten.  
+- De mobiele app maken en lanceren, inclusief productregistratie en een overzicht voor klanten.  
+- Basisfuncties voor klachten en support beschikbaar maken.  
+- Pushmeldingen instellen voor productupdates en seizoensproducten.  
 
 ### Binnen 1 jaar
-- Gepersonaliseerde aanbevelingen aanbieden op basis van aankoopgeschiedenis en voorkeuren.  
-- Integratie van de app met ERP, CRM en BI-tools voor actuele informatie en klantinzichten.  
-- Communityfuncties en gamification-elementen toevoegen om klantbetrokkenheid te verhogen.  
+- Persoonlijke aanbevelingen geven op basis van wat klanten kopen en leuk vinden.  
+- De app koppelen aan ERP, CRM en BI-tools voor actuele info en klantinzichten.  
+- Communityfuncties en spel-elementen toevoegen om klanten meer betrokken te maken.  
 
 ### Binnen 3 jaar
-- Uitbouwen van exclusieve productervaringen zoals proeverijen, workshops en evenementen.  
-- Verdere uitbreiding van duurzame initiatieven en transparantie van productherkomst in de app.  
-- Innovatieve functies toevoegen zoals AR-proeverijen en virtuele fabriekstours.  
+- Exclusieve productervaringen aanbieden, zoals proeverijen, workshops en evenementen.  
+- Meer duurzame initiatieven tonen en laten zien waar producten vandaan komen in de app.  
+- Nieuwe functies toevoegen, zoals AR-proeverijen en virtuele fabriekstours.  
 
 ### Doorlopend
-- Kwaliteit, betrouwbaarheid en klantgerichtheid bewaken en verbeteren.  
-- Regelmatige updates van de app uitvoeren om nieuwe functionaliteiten toe te voegen en prestaties te verbeteren.  
-- Data analyse gebruiken om trends en voorkeuren van klanten te volgen en productontwikkeling te ondersteunen.  
+- Kwaliteit, betrouwbaarheid en klantgerichtheid blijven verbeteren.  
+- Regelmatig updates uitvoeren om nieuwe functies toe te voegen en de app sneller te maken.  
+- Klantgegevens analyseren om trends en voorkeuren te volgen en producten te verbeteren. 
   
 
 ## Organogram BimBonBon App
