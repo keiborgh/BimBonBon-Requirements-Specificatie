@@ -58,6 +58,6 @@ Persoonlijke gegevens van de klant, zoals naam en contactinformatie.
 - **Product Registreren**: Klant voegt een nieuw BimBonBon product toe aan zijn profiel.
 
 ---
-[👉 Volgende: Wireframes](04-wireframes.md)
+[👉 Volgende: Wireframes](08-wireframes.md)
 
 
