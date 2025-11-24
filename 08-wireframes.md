@@ -55,7 +55,7 @@ Gebruikers kunnen snel antwoord krijgen op veelgestelde vragen via een chatbot, 
 
 **Opbouw:**  
 - Header met titel “Hulp & Chat” 
-- Knoppen voor FAQ-categorieën  
+- Knoppen voor FAQ categorieën  
 - Chatvenster met berichten van gebruiker en chatbot  
 - Invoerveld met verzendknop  
 - Optie “Doorverbinden met medewerker”
@@ -75,7 +75,7 @@ Gebruikers ontvangen relevante aanbiedingen en kunnen zelf meldingen beheren.
 - Notificatie-instellingen: aan/uit voor updates, aanbiedingen, alerts  
 - Optie om meldingen direct te openen of verwijderen
 
-  ![Start](wireframe_5_promoties_notificaties.png)
+  ![Start](wireframe_5_promoties_notificaties.png)  ![Start](wireframe_5_promoties_notificaties_2.png)
 
 ---
 
