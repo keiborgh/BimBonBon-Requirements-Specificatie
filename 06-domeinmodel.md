@@ -53,6 +53,7 @@ classDiagram
         +int productID
         +string naam
         +string serienummer
+        +string recepten
         +date aankoopdatum
         +controleerStatus()
     }
