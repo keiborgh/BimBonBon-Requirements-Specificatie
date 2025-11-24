@@ -57,3 +57,7 @@ Persoonlijke gegevens van de klant, zoals naam en contactinformatie.
 - **Instellingen**: Taal, meldingen en wachtwoord aanpassen.  
 - **Product Registreren**: Klant voegt een nieuw BimBonBon product toe aan zijn profiel.
 
+---
+[👉 Volgende: Wireframes](04-wireframes.md)
+
+
