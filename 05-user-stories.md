@@ -165,3 +165,7 @@ De basis vormen voor toekomstige uitbreiding
 - **L:** Complex  
 - **XL:** Zeer groot
 
+---
+[👉 Volgende: Domeinmodel](06-domeinmodel.md)
+
+
