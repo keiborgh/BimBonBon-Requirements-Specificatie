@@ -12,3 +12,4 @@ Hier vind je alle belangrijke onderdelen die je nodig hebt om ons systeem te beg
 - [Domeinmodel & UML-klassendiagram](06-domeinmodel.md)
 - [Sitemap](07-sitemap.md)
 - [Wireframes](08-wireframes.md)
+- [Versietabel](09-Versietabel.md)
