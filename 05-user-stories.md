@@ -15,7 +15,7 @@ De MVP focust op de functies die de meeste waarde leveren met de minste ontwikke
 **zodat** ik toegang krijg tot productinformatie, recepten en updates.
 
 **Acceptatiecriteria**
-- Klant kan product registreren via QR-code of handmatige invoer  
+- Klant kan product registreren via QR code of handmatige invoer  
 - Geregistreerd product verschijnt direct in klantprofiel
 
 **T-shirt size:** S
@@ -63,7 +63,7 @@ De MVP focust op de functies die de meeste waarde leveren met de minste ontwikke
 
 ### User Story 5 – AI chatbot openen
 **Als klant**  
-**wil ik** een gesprek kunnen starten met een AI-chatbot  
+**wil ik** een gesprek kunnen starten met een AI chatbot  
 **zodat** ik snel antwoord krijg op veelgestelde vragen.
 
 **Acceptatiecriteria**
@@ -127,7 +127,7 @@ De MVP focust op de functies die de meeste waarde leveren met de minste ontwikke
 
 ### User Story 10 – Feedback geven
 **Als klant**  
-wil ik feedback kunnen achterlaten over producten  
+**wil ik** feedback kunnen achterlaten over producten  
 **zodat** het bedrijf mijn ervaringen kan gebruiken voor verbeteringen.
 
 **Acceptatiecriteria**
