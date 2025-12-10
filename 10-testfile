@@ -1,30 +1,31 @@
-flowchart TD
+flowchart TB
 
-    %% START
-    A([Klant heeft vraag, probleem of product]) --> B[Zoekt informatie online op website of verpakking]
+%% POOLS & SWIMLANES
+subgraph Klant
+    K1([Start: Klant heeft vraag, klacht of zoekt productinfo])
+    K2[Zoekt info via website, e-mail of telefoon]
+    K3{Info gevonden?}
+    K4[Probleem zelf opgelost]
+    K5[Stuurt e-mail of belt klantenservice]
+end
 
-    %% PRODUCTREGISTRATIE
-    B --> C{Wil klant product registreren?}
-    C -->|Ja| D[Stuurt e-mail naar klantenservice met productgegevens]
-    C -->|Nee| E[Zoekt verder naar informatie]
+subgraph Klantenservice
+    C1([Ontvangt melding via e-mail/telefoon])
+    C2[Maakt handmatig ticket in apart systeem]
+    C3[Zoekt informatie in verspreide systemen]
+    C4{Oplossing gevonden?}
+    C5[Stuurt antwoord terug via e-mail]
+    C6[Escalatie naar productontwikkeling]
+end
 
-    D --> F[Medewerker registreert product handmatig in systeem]
-    F --> G[Registratie vertraagd of foutgevoelig]
+subgraph Productontwikkeling
+    P1([Ontvangt klacht/feedback handmatig])
+    P2[Verwerkt feedback zonder directe klantdata]
+end
 
-    %% KLACHTENPROCESS
-    E --> H{Heeft klant een klacht?}
-    H -->|Ja| I[Klant belt of mailt klantenservice]
-    H -->|Nee| J[Einde proces]
-
-    I --> K[Medewerker maakt handmatig ticket aan]
-    K --> L[Ticket blijft soms onduidelijk of onvolledig]
-    L --> M[Klacht wordt onderzocht]
-    M --> N[Traag proces, klant moet zelf navragen]
-    N --> J
-
-    %% FEEDBACK
-    F --> O{Wil klant feedback geven?}
-    O -->|Ja| P[Klant stuurt losse feedback per e-mail]
-    P --> Q[Feedback belandt verspreid in mailboxen]
-    Q --> J
-    O -->|Nee| J
+%% FLOW IST
+K1 --> K2 --> K3
+K3 -->|Ja| K4
+K3 -->|Nee| K5 --> C1 --> C2 --> C3 --> C4
+C4 -->|Ja| C5 --> K4
+C4 -->|Nee| C6 --> P1 --> P2
