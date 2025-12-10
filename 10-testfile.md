@@ -1,53 +1,55 @@
 ```mermaid
 flowchart LR
-    %% Kolom 1 – Suppliers
-    subgraph S[Suppliers<br/>Wie levert inputs]
-        s1[Klanten]
-        s2[Klantenservice]
-        s3[Productontwikkeling]
-        s4[Marketing]
-        s5[ERP / CRM]
+
+    %% Suppliers
+    subgraph S[Suppliers<br/>Wie levert de inputs]
+        S1[Klanten]
+        S2[Klantenservice]
+        S3[Productontwikkeling]
+        S4[Marketing]
+        S5[ERP / CRM]
     end
 
-    %% Kolom 2 – Inputs
+    %% Inputs
     subgraph I[Inputs<br/>Wat is nodig]
-        i1[Vraag / klacht]
-        i2[Productinformatie]
-        i3[Registratiedata]
-        i4[Feedback]
+        I1[Vraag / klacht]
+        I2[Productinformatie]
+        I3[Registratiedata]
+        I4[Feedback]
     end
 
-    %% Kolom 3 – Process
+    %% Process
     subgraph P[Process<br/>Wat gebeurt er]
-        p1[Product registreren]
-        p2[Informatie raadplegen]
-        p3[Vraag of klacht]
-        p4[Chatbot]
-        p5[Escalatie]
-        p6[Oplossen]
-        p7[Feedback]
+        P1[Product registreren]
+        P2[Informatie raadplegen]
+        P3[Vraag / klacht]
+        P4[Chatbot]
+        P5[Escalatie]
+        P6[Oplossen]
+        P7[Feedback verzamelen]
     end
 
-    %% Kolom 4 – Outputs
+    %% Outputs
     subgraph O[Outputs<br/>Wat komt eruit]
-        o1[Oplossingen]
-        o2[Tickets]
-        o3[Verbeterde info]
-        o4[Data / feedback]
+        O1[Oplossingen]
+        O2[Tickets]
+        O3[Verbeterde informatie]
+        O4[Data / feedback]
     end
 
-    %% Kolom 5 – Customers
+    %% Customers
     subgraph C[Customers<br/>Wie ontvangt]
-        c1[Klanten]
-        c2[Service]
-        c3[R&D]
-        c4[Marketing]
-        c5[Management]
+        C1[Klanten]
+        C2[Klantenservice]
+        C3[Productontwikkeling]
+        C4[Marketing]
+        C5[Management]
     end
 
-    %% verbindingen
+    %% Verbindingslijnen
     S --> I
     I --> P
     P --> O
     O --> C
 ```
+
