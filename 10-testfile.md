@@ -1,55 +1,58 @@
-```mermaid
-flowchart LR
+# SIPOC Analyse – Ondersteunend Bedrijfsproces BimBonBon App
 
-    %% Suppliers
-    subgraph S[Suppliers<br/>Wie levert de inputs]
-        S1[Klanten]
-        S2[Klantenservice]
-        S3[Productontwikkeling]
-        S4[Marketing]
-        S5[ERP / CRM]
-    end
+Deze pagina bevat de SIPOC analyse van het bedrijfsproces dat door de BimBonBon app wordt ondersteund.  
+De SIPOC geeft een overzicht van de belangrijkste onderdelen van het proces en laat zien hoe inputs worden omgezet in outputs voor de klanten.
 
-    %% Inputs
-    subgraph I[Inputs<br/>Wat is nodig]
-        I1[Vraag / klacht]
-        I2[Productinformatie]
-        I3[Registratiedata]
-        I4[Feedback]
-    end
+---
 
-    %% Process
-    subgraph P[Process<br/>Wat gebeurt er]
-        P1[Product registreren]
-        P2[Informatie raadplegen]
-        P3[Vraag / klacht]
-        P4[Chatbot]
-        P5[Escalatie]
-        P6[Oplossen]
-        P7[Feedback verzamelen]
-    end
+## Wat is een SIPOC?
 
-    %% Outputs
-    subgraph O[Outputs<br/>Wat komt eruit]
-        O1[Oplossingen]
-        O2[Tickets]
-        O3[Verbeterde informatie]
-        O4[Data / feedback]
-    end
+SIPOC is een hulpmiddel uit procesanalyse en staat voor:
 
-    %% Customers
-    subgraph C[Customers<br/>Wie ontvangt]
-        C1[Klanten]
-        C2[Klantenservice]
-        C3[Productontwikkeling]
-        C4[Marketing]
-        C5[Management]
-    end
+- **S – Suppliers (Leveranciers)**  
+  Wie levert de input voor het proces?
 
-    %% Verbindingslijnen
-    S --> I
-    I --> P
-    P --> O
-    O --> C
+- **I – Inputs (Invoer)**  
+  Welke informatie of middelen heeft het proces nodig?
 
-```
+- **P – Process (Proces)**  
+  Wat gebeurt er in het proces? Welke stappen worden uitgevoerd?
+
+- **O – Outputs (Uitvoer)**  
+  Wat levert het proces op?
+
+- **C – Customers (Ontvangers)**  
+  Wie ontvangt de output van het proces?
+
+Een SIPOC wordt gebruikt om snel inzicht te krijgen in een proces.
+
+---
+
+## Beschrijving van het proces
+
+Het proces dat door de app wordt ondersteund gaat over ondersteuning voor klanten en informatie over producten.
+
+De klant kan:
+
+- producten registreren  
+- productinformatie bekijken  
+- vragen stellen  
+- klachten indienen  
+- feedback geven  
+
+Het systeem helpt hierbij door:
+
+- alle informatie op één plek aan te bieden  
+- een mogelijkheid om producten te registreren  
+- een chatbot die vragen kan beantwoorden  
+- vragen door te sturen naar een medewerker wanneer dat nodig is  
+- klanten feedback te laten geven  
+- gegevens te gebruiken om marketing en nieuwe producten te verbeteren  
+
+---
+
+## SIPOC Model
+
+Hier komt later het SIPOC-diagram.
+
+
