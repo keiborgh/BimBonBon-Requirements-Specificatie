@@ -1,0 +1,30 @@
+flowchart TD
+
+    %% START
+    A([Klant heeft vraag, probleem of product]) --> B[Zoekt informatie online op website of verpakking]
+
+    %% PRODUCTREGISTRATIE
+    B --> C{Wil klant product registreren?}
+    C -->|Ja| D[Stuurt e-mail naar klantenservice met productgegevens]
+    C -->|Nee| E[Zoekt verder naar informatie]
+
+    D --> F[Medewerker registreert product handmatig in systeem]
+    F --> G[Registratie vertraagd of foutgevoelig]
+
+    %% KLACHTENPROCESS
+    E --> H{Heeft klant een klacht?}
+    H -->|Ja| I[Klant belt of mailt klantenservice]
+    H -->|Nee| J[Einde proces]
+
+    I --> K[Medewerker maakt handmatig ticket aan]
+    K --> L[Ticket blijft soms onduidelijk of onvolledig]
+    L --> M[Klacht wordt onderzocht]
+    M --> N[Traag proces, klant moet zelf navragen]
+    N --> J
+
+    %% FEEDBACK
+    F --> O{Wil klant feedback geven?}
+    O -->|Ja| P[Klant stuurt losse feedback per e-mail]
+    P --> Q[Feedback belandt verspreid in mailboxen]
+    Q --> J
+    O -->|Nee| J
