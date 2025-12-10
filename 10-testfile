@@ -1,33 +1,11 @@
-```mermaid
-flowchart TB
+# SIPOC Analyse – Ondersteunend Bedrijfsproces
 
-%% POOLS & SWIMLANES
-subgraph Klant
-    K1([Start: Klant heeft vraag, klacht of zoekt productinfo])
-    K2[Zoekt info via website, e-mail of telefoon]
-    K3{Info gevonden?}
-    K4[Probleem zelf opgelost]
-    K5[Stuurt e-mail of belt klantenservice]
-end
-
-subgraph Klantenservice
-    C1([Ontvangt melding via e-mail/telefoon])
-    C2[Maakt handmatig ticket in apart systeem]
-    C3[Zoekt informatie in verspreide systemen]
-    C4{Oplossing gevonden?}
-    C5[Stuurt antwoord terug via e-mail]
-    C6[Escalatie naar productontwikkeling]
-end
-
-subgraph Productontwikkeling
-    P1([Ontvangt klacht/feedback handmatig])
-    P2[Verwerkt feedback zonder directe klantdata]
-end
-
-%% FLOW IST
-K1 --> K2 --> K3
-K3 -->|Ja| K4
-K3 -->|Nee| K5 --> C1 --> C2 --> C3 --> C4
-C4 -->|Ja| C5 --> K4
-C4 -->|Nee| C6 --> P1 --> P2
-```
+| **Suppliers (Leveranciers)** | **Inputs (Invoer)** | **Process (Proces)** | **Outputs (Uitvoer)** | **Customers (Ontvangers)** |
+|---------------------------|------------------|-------------------|----------------------|---------------------------|
+| Klanten | Vraag / klacht | Product registreren | Opgeloste vragen | Klanten |
+| Klantenservice | Productinformatie | Informatie raadplegen | Tickets | Klantenservice |
+| Productontwikkeling | Registratiedata | Vraag of klacht indienen | Verbeterde informatie | Productontwikkeling |
+| Marketing | Feedback | Chatbot behandelt | Feedback / data | Marketing |
+| ERP / CRM systemen | Supporthistorie | Escalatie indien nodig | Verlaagde werkdruk | Management |
+|                           |                  | Medewerker lost op |                      |                           |
+|                           |                  | Feedback verzamelen |                      |                           |
