@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
 
 %% POOLS & SWIMLANES
@@ -29,3 +30,4 @@ K3 -->|Ja| K4
 K3 -->|Nee| K5 --> C1 --> C2 --> C3 --> C4
 C4 -->|Ja| C5 --> K4
 C4 -->|Nee| C6 --> P1 --> P2
+```
