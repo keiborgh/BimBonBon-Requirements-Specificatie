@@ -53,6 +53,5 @@ Het systeem helpt hierbij door:
 
 ## SIPOC Model
 
-Hier komt later het SIPOC-diagram.
 
 
