@@ -34,11 +34,11 @@ De app helpt klanten met informatie en ondersteuning over producten.
 
 De klant kan:
 
-- Producten registreren  
-- Productinformatie bekijken  
-- Vragen stellen  
-- Klachten indienen  
-- Feedback geven  
+- Producten registreren
+- Productinformatie bekijken
+- Vragen stellen
+- Klachten indienen
+- Feedback geven
 
 Het systeem helpt door:
 
