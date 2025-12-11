@@ -13,3 +13,5 @@ Hier vind je alle belangrijke onderdelen die je nodig hebt om ons systeem te beg
 - [Sitemap](07-sitemap.md)
 - [Wireframes](08-wireframes.md)
 - [Versietabel](09-Versietabel.md)
+
+  ![Start](mmm_label_klusser.png)
