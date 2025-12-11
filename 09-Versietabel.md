@@ -15,5 +15,5 @@
 | 1.3          | 17-12-2025 | Omar & Sam     | Technische toelichting bij UML en domeinmodel toegevoegd                                      | Alara, Eva, Evelien             |
 | 1.4          | 19-12-2025 | Alara          | Eindcontrole document, spelfouten en kleine correcties doorgevoerd                            | Eva, Evelien, Omar, Sam              |
 | 1.5          | 22-12-2025 | Alara          | Wireframes 1 t/m 6 (Startpagina, Productregistratie, Productinformatie & recepten, Klachten & status, AI Chatbot, Promoties & notificaties, Feedback) gemaakt | Eva, Evelien, Omar, Sam               | 
-| 2.1          | 22-12-2025 | Alara          | SIPOC Toegevoegd +  Knelpunten toegevoegd + SIPOC model gemaakt + toelichting aangevuld | Eva, Evelien, Omar, Sam               |
+| 2.1          | 11-12-2025 | Alara          | SIPOC Toegevoegd +  Knelpunten toegevoegd + SIPOC model gemaakt + toelichting aangevuld | Eva, Evelien, Omar, Sam               |
 
