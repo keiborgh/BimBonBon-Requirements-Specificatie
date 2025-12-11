@@ -15,4 +15,4 @@ Hier vind je alle belangrijke onderdelen die je nodig hebt om ons systeem te beg
 - [Versietabel](09-Versietabel.md)
 
 
-  ![Start](mmm_label_klusser.png)
+                                                                                                                                            ![Start](mmm_label_klusser.png)
