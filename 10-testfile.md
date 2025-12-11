@@ -53,4 +53,4 @@ Het systeem helpt hierbij door:
 
 ## SIPOC Model
 
-![SIPOC Diagram](SIPOC_model.png)
+![SIPOC Diagram](SIPOC_Model_bimbonbon.png)
