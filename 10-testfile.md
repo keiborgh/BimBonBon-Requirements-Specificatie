@@ -53,5 +53,4 @@ Het systeem helpt hierbij door:
 
 ## SIPOC Model
 
-
-
+![SIPOC Diagram](SIPOC_Model.png)
