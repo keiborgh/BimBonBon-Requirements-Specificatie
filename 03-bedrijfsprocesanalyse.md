@@ -34,20 +34,20 @@ De app helpt klanten met informatie en ondersteuning over producten.
 
 De klant kan:
 
-- producten registreren  
-- productinformatie bekijken  
-- vragen stellen  
-- klachten indienen  
-- feedback geven  
+- Producten registreren  
+- Productinformatie bekijken  
+- Vragen stellen  
+- Klachten indienen  
+- Feedback geven  
 
 Het systeem helpt door:
 
-- alle informatie op één plek te zetten  
-- producten te registreren  
-- een chatbot vragen te laten beantwoorden  
-- vragen naar een medewerker te sturen als dat nodig is  
-- klanten feedback te laten geven  
-- gegevens te gebruiken voor marketing en productverbetering  
+- Alle informatie op één plek te zetten  
+- Producten te registreren  
+- Een chatbot vragen te laten beantwoorden  
+- Vragen naar een medewerker te sturen als dat nodig is  
+- Klanten feedback te laten geven  
+- Gegevens te gebruiken voor marketing en productverbetering  
 
 ---
 
@@ -68,11 +68,11 @@ De app maakt dit beter door alles overzichtelijk te maken, klanten sneller te he
 
 De huidige manier van werken heeft een aantal problemen:
 
-- informatie is verspreid en moeilijk te vinden  
-- productregistratie kan fout gaan  
-- vragen en klachten worden langzaam afgehandeld  
-- klantenservice moet veel handmatig werk doen  
-- productontwikkeling krijgt weinig feedback  
+- Informatie is verspreid en moeilijk te vinden  
+- Productregistratie kan fout gaan  
+- Vragen en klachten worden langzaam afgehandeld  
+- Klantenservice moet veel handmatig werk doen  
+- Productontwikkeling krijgt weinig feedback  
 
 De app helpt om deze problemen op te lossen.
 
