@@ -1,79 +1,80 @@
-# Bedrijfsprocesanalyse – BimBonBon App
+# SIPOC Analyse – Ondersteunend Bedrijfsproces BimBonBon App
 
-BimBonBon ontwikkelt een mobiele app om de klantervaring te verbeteren, de werkdruk bij klantenservice te verminderen en de communicatie tussen klanten en bedrijf te optimaliseren.  
-In deze analyse beschrijven we de belangrijkste bedrijfsprocessen, de huidige situatie (IST), de gewenste situatie (SOLL) en de knelpunten (GAP) die de app oplost.
+Deze pagina bevat de SIPOC analyse van het proces dat door de BimBonBon app wordt ondersteund.  
+De SIPOC laat zien wie iets aanlevert, wat er nodig is, wat er gebeurt, wat eruit komt en wie het resultaat krijgt.
 
+---
 
-## Overzicht van de hoofdprocessen binnen BimBonBon
-1. **Productregistratie en informatie**  
-2. **Marketing en promoties**  
-3. **Bestellingen en verkoop**  
-4. **Klantenservice en support**  
-5. **After sales & feedback**
+## Wat is een SIPOC?
 
-## IST (Huidige situatie)
-Op dit moment verloopt het contact met klanten vooral via e-mail, telefoon en verschillende losse systemen. Het registreren van producten, informatie geven en feedback krijgen is niet goed op elkaar afgestemd. Hierdoor hebben klanten en medewerkers meer moeite en kost het meer tijd.
+SIPOC is een hulpmiddel om een proces duidelijk te maken.
 
-**Belangrijkste problemen:**
-- Producten moeten handmatig worden geregistreerd, wat kan leiden tot fouten
-- Productinformatie en recepten zijn verspreid en moeilijk te vinden voor klanten
-- Klachtenafhandeling is onoverzichtelijk en traag
-- Weinig inzicht in wat klanten kopen en wat hun voorkeuren zijn
-- Marketing en promoties zijn niet persoonlijk afgestemd
-- Productontwikkeling krijgt weinig directe feedback van klanten
+- **S – Suppliers (Leveranciers)**  
+  Wie levert de informatie of gegevens?
 
-## SOLL (Gewenste situatie)
-Met de app hebben klanten één plek om producten te registreren, informatie te bekijken, bestellingen te plaatsen en hulp te krijgen. Alle processen zijn verbonden met interne systemen zoals ERP, CRM en BI tools. Dit maakt het werken makkelijker en sneller voor klanten en medewerkers.
+- **I – Inputs (Invoer)**  
+  Wat heeft het proces nodig?
 
-**Verbetermogelijkheden:**
-- Producten registreren via QR code of handmatig invoeren
-- Dashboard toont productinformatie, recepten en uitlegvideo’s
-- Bestellen kan direct via de app, gekoppeld aan ERP
-- AI chatbot en digitaal klachtenformulier met statusupdates
-- Persoonlijke meldingen en aanbiedingen voor klanten
-- Klanten kunnen direct feedback geven aan productontwikkeling
-- Gegevens van klanten worden geanalyseerd voor marketing en productverbetering
+- **P – Process (Proces)**  
+  Wat gebeurt er in het proces?
 
-## GAP analyse – BimBonBon App
+- **O – Outputs (Uitvoer)**  
+  Wat komt eruit?
 
-De GAP analyse laat zien wat er nu gebeurt (IST), wat we willen bereiken (SOLL) en welke verbeteringen de app biedt.
+- **C – Customers (Klanten / Ontvangers)**  
+  Wie krijgt de output?
 
-**Bovenaan** = huidige knelpunten (IST)  
-**Onderaan** = oplossingen / gewenste situatie (SOLL)  
-**Pijlen** = geven aan welke oplossing bij welk knelpunt hoort  
+Een SIPOC helpt om snel te begrijpen hoe een proces werkt.
 
-```mermaid
-graph TD
-    A[Producten moeten handmatig geregistreerd worden] --> A1[Automatische registratie via QR code of batchnummer in app]
-    B[Productinformatie en recepten zijn verspreid] --> B1[Dashboard centraliseert productinfo, recepten en tutorials]
-    C[Klachtenproces is traag en onoverzichtelijk] --> C1[AI chatbot + digitaal klachtenformulier met statustracking]
-    D[Weinig inzicht in klantvoorkeuren en aankoopgedrag] --> D1[App verzamelt geanonimiseerde klantdata voor analyses]
-    E[Marketing en promoties zijn niet gepersonaliseerd] --> E1[Gepersonaliseerde meldingen en aanbiedingen via app]
-    F[Productontwikkeling krijgt weinig feedback] --> F1[Feedback via app wordt direct doorgegeven aan productteam]
-```
+---
 
-### Visualisatie van klantondersteuningsproces
+## Beschrijving van het proces
 
-De onderstaande visualisatie toont het huidige (IST) en gewenste (SOLL) proces voor klantondersteuning bij BimBonBon.  
-Het laat zien waar knelpunten zitten en hoe de app deze oplost.
+De app helpt klanten met informatie en ondersteuning over producten.
 
-```mermaid
-graph TD
-    A[Klant heeft vraag of klacht] --> B[App geopend door klant]
-    B --> C[Gebruik AI chatbot]
-    C -->|Antwoord gevonden| D[Probleem opgelost]
-    C -->|Geen oplossing| E[Contact met medewerker]
-    E --> F[Ticket aangemaakt door klantenservice]
-    F --> G[Feedback via app verwerkt en doorgegeven aan productteam]
-```
-Het huidige klantondersteuningsproces is traag en omslachtig. Door een mobiele app in te zetten kan BimBonBon:
+De klant kan:
 
-- Klanten sneller en makkelijker helpen  
-- Werkdruk bij medewerkers verminderen  
-- Directe feedback verzamelen voor productverbetering  
-- Marketing en promoties beter afstemmen op klantbehoeften  
+- producten registreren  
+- productinformatie bekijken  
+- vragen stellen  
+- klachten indienen  
+- feedback geven  
 
-Deze visualisatie biedt ontwikkelaars en stakeholders een duidelijk overzicht van hoe het nieuwe systeem de bestaande knelpunten oplost en de klanttevredenheid verhoogt.
+Het systeem helpt door:
+
+- alle informatie op één plek te zetten  
+- producten te registreren  
+- een chatbot vragen te laten beantwoorden  
+- vragen naar een medewerker te sturen als dat nodig is  
+- klanten feedback te laten geven  
+- gegevens te gebruiken voor marketing en productverbetering  
+
+---
+
+## SIPOC Model
+
+![SIPOC Diagram](SIPOC_Model_bimbonbon.png)
+
+---
+
+## Conclusie
+
+De SIPOC laat zien dat het proces vooral draait om goede informatie en goede ondersteuning.  
+De app maakt dit beter door alles overzichtelijk te maken, klanten sneller te helpen en feedback te verzamelen.
+
+---
+
+## Knelpunten in het huidige proces
+
+De huidige manier van werken heeft een aantal problemen:
+
+- informatie is verspreid en moeilijk te vinden  
+- productregistratie kan fout gaan  
+- vragen en klachten worden langzaam afgehandeld  
+- klantenservice moet veel handmatig werk doen  
+- productontwikkeling krijgt weinig feedback  
+
+De app helpt om deze problemen op te lossen.
 
 ---
 [👉 Volgende: Productvisie](04-productvisie.md)
