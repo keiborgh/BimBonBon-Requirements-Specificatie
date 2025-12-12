@@ -53,7 +53,7 @@ Het systeem helpt door:
 
 ## SIPOC Model
 
-![SIPOC Diagram](SIPOC_Model_bimbonbon.png)
+![SIPOC Diagram](sipoc_model_bimbonbon(2).png)
 
 ---
 
